@@ -6,8 +6,8 @@ struct string_array* stringSeperator(char strInput[])
 {
     char *str;
     static struct string_array *strOutput;
-    static struct string_array output;
-    strOutput = &output;
+    static struct string_array substrings;
+    strOutput = &substrings;
     char delimiter[2] = "_";
     char *token;
     str = (char *)malloc(((strlen(strInput)+1)* sizeof(char)));
