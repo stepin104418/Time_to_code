@@ -20,6 +20,7 @@ struct string_array* stringSeperator(char strInput[])
         i++;
         token = strtok(NULL, delimiter);
     }
+    free(str);
     return strOutput;
 
 };
