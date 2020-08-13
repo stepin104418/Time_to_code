@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1597007164 source:c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\unity\unity.h
+	"unity_internals.h"
+
+1597007164 c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597154563 source:c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\main.c
+	"testStringSeperator.h"
+
+1597154458 c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\test\teststringseperator.h
+
+1597301825 source:c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\test\teststringseperator.c
+	"unity.h"
+	"stringSeperator.h"
+
+1597301905 c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\inc\stringseperator.h
+
+1597301905 source:c:\users\dell\documents\ltts\projects\string seperator\sentenceseperator\src\stringseperator.c
+	"stringSeperator.h"
+	<string.h>
+	<stdlib.h>
+
