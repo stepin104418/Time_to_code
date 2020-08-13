@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1597007164 source:c:\users\dell\documents\ltts\projects\factorial\main.c
+	"test_factorial.h"
+
+1597007164 c:\users\dell\documents\ltts\projects\factorial\test\test_factorial.h
+
+1597320310 source:c:\users\dell\documents\ltts\projects\factorial\src\primenumber.c
+	"primeNumber.h"
+
+1597318740 c:\users\dell\documents\ltts\projects\factorial\inc\primenumber.h
+
+1597007164 source:c:\users\dell\documents\ltts\projects\factorial\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 c:\users\dell\documents\ltts\projects\factorial\unity\unity.h
+	"unity_internals.h"
+
+1597007164 c:\users\dell\documents\ltts\projects\factorial\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
