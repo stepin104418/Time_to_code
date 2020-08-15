@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1597007164 source:c:\users\dell\documents\ltts\projects\calculator\calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 c:\users\dell\documents\ltts\projects\calculator\calculator\unity\unity.h
+	"unity_internals.h"
+
+1597007164 c:\users\dell\documents\ltts\projects\calculator\calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597493443 source:c:\users\dell\documents\ltts\projects\calculator\calculator\main.c
+	"test_calculator.h"
+
+1597493414 c:\users\dell\documents\ltts\projects\calculator\calculator\test\test_calculator.h
+
+1597500725 source:c:\users\dell\documents\ltts\projects\calculator\calculator\src\calculator.c
+	"calculator.h"
+	"operations.h"
+
+1597496175 source:c:\users\dell\documents\ltts\projects\calculator\calculator\test\test_calculator.c
+	"unity.h"
+	"calculator.h"
+
+1597500592 c:\users\dell\documents\ltts\projects\calculator\calculator\inc\calculator.h
+	<stdlib.h>
+
+1597500780 c:\users\dell\documents\ltts\projects\calculator\calculator\inc\operations.h
+
