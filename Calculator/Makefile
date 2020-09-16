@@ -38,3 +38,6 @@ doc:
 
 clean:
 	rm -rf $(PROJECT_NAME) documentation/html
+# Create new build folder if not present
+$(BUILD):
+	mkdir build
